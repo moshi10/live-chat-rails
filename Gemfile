@@ -50,3 +50,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', '~> 4.8', '>= 4.8.1'
 gem 'devise_token_auth', '~> 1.2'
+
+gem "net-smtp"
+gem 'psych', '~> 3.1'
